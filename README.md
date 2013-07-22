@@ -1,4 +1,4 @@
 notify-pnr
 ==========
 
-Si mplePHP, Node.js and Redis
+Simple PHP, Node.js and Redis app
